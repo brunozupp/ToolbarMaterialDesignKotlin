@@ -12,7 +12,9 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
         android:title="Toolbar Example"
+        android:titleTextAppearance="@style/TitleTextAppearance"
         android:subtitle="Subtitle"
+        android:subtitleTextAppearance="@style/SubtitleTextAppearance"
         android:theme="@style/ToolbarStyle"
         />
 
